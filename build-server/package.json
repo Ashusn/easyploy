@@ -1,0 +1,16 @@
+{
+  "name": "@aws-sdk/client-s3",
+  "version": "3.592.0",
+  "description": "aws-s3-bucket",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.592.0",
+    "ioredis": "^5.4.1",
+    "mime-types": "^2.1.35"
+  }
+}
